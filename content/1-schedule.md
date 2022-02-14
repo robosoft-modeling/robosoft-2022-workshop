@@ -7,7 +7,7 @@ description: >
 
 ---
 
-## Moritz Bächer (Disney Research, Switzerland)
+### Moritz Bächer (Disney Research, Switzerland)
 
 **Title**
 
@@ -16,7 +16,7 @@ description: >
 **Biography**
 
 
-## Katia Bertoldi (Harvard University, USA)
+### Katia Bertoldi (Harvard University, USA)
 
 **Title**
 
@@ -25,7 +25,7 @@ description: >
 **Biography**
 
 
-## Federic Boyer (Ecole De Mines de Nantes, France)
+### Federic Boyer (Ecole De Mines de Nantes, France)
 
 **Title**
 
@@ -34,7 +34,7 @@ description: >
 **Biography**
 
 
-## Steve Brunton (University of Washington, USA)
+### Steve Brunton (University of Washington, USA)
 
 **Title**
 
@@ -43,7 +43,7 @@ description: >
 **Biography**
 
 
-## Gregory Scott Chirikjian (National University of Singapore, Singapore)
+### Gregory Scott Chirikjian (National University of Singapore, Singapore)
 
 **Title**
 
@@ -52,7 +52,7 @@ description: >
 **Biography**
 
 
-## Christian Duriez (INRIA, France)
+### Christian Duriez (INRIA, France)
 
 **Title**
 
@@ -61,7 +61,7 @@ description: >
 **Biography**
 
 
-## Francesco Giorgio Serchi (University of Edinburgh, UK)
+### Francesco Giorgio Serchi (University of Edinburgh, UK)
 
 **Title**
 
