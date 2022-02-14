@@ -5,5 +5,25 @@ description: "Robosoft 2022 workshop: Soft Robotics modeling: what are we missin
 keywords: "github, github-pages, websites, static gen, hosting, html, workshop, gh-pages"
 featured-image: 
 
+# author settings for cc-by, appears in the footer and credits
+author: G Mengaldo
+pub_year: 2022
+
+# add search box to footer?
+search: true
+
+# add google analytics if desired (optional)
+# if blank, it will be ignored
+# use JEKYLL_ENV=production on build command
+google_analytics: UA-74844011-1
+
+# defaults (to simplify front matter)
+defaults:
+  - scope:
+      path: "content"
+    values:
+      layout: "section"
+      
 # Build settings
+markdown: kramdown
 theme: jekyll-theme-cayman
