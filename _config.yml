@@ -25,5 +25,5 @@ defaults:
       layout: "section"
       
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 theme: jekyll-theme-cayman
