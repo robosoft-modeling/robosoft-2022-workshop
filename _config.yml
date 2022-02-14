@@ -6,8 +6,10 @@ keywords: "github, github-pages, websites, static gen, hosting, html, workshop, 
 featured-image: 
 
 # author settings for cc-by, appears in the footer and credits
-author: G Mengaldo
+author: robosoft-modeling
 pub_year: 2022
+github_username: robosoft-modeling
+repo: "https://github.com/robosoft-modeling/robosoft-2022-workshop/"
 
 # add search box to footer?
 search: true
