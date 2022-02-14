@@ -1,7 +1,7 @@
 ---
-title: Competition
+title: Modeling competition
 nav: Competition
-topics: Modeling competition
+
 description: > 
     ...
 ---
