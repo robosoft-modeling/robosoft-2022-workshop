@@ -1,6 +1,9 @@
 # Site settings
 title: modeling-workshop-2022
 title-icon: fa-brands fa-octopus-deploy
+description: "Robosoft 2022 workshop: Soft Robotics modeling: what are we missing?"
+keywords: "github, github-pages, websites, static gen, hosting, html, workshop, gh-pages"
+featured-image: 
 
 # Build settings
 theme: jekyll-theme-cayman
