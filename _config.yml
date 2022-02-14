@@ -1,5 +1,6 @@
 # Site settings
-title: robosoft 2022 workshop on soft robotics modeling
+title: modeling-workshop-2022
+title-icon: fa-brands fa-octopus-deploy
 
 # Build settings
 theme: jekyll-theme-cayman
