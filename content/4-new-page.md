@@ -1,9 +1,4 @@
----
-title: Information Markdown
-nav: Cecilia
 
-description: > 
----
 
 # H1
 ## H2
