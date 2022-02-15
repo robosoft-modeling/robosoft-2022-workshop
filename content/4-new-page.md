@@ -52,3 +52,10 @@ term
 : definition
 
 ### My Great Heading {#custom-id}
+
+{% capture source %}GitHub Pages now allows *any* branch's root or "docs" folder to be [selected as the source](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site). 
+Following earlier conventions, creating a branch named `gh-pages` will automatically active it as the source. 
+
+Keep in mind that until recently the default branch was called "master", rather than "main", so older documentation may still use that terminology. 
+{% endcapture %}
+{% include alert.html text=source color="info" %}
