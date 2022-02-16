@@ -1,6 +1,6 @@
 ---
 title: Call for Abstracts
-nav: Info
+nav: Call for abstracts
 
 description: > 
 ---
