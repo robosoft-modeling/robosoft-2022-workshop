@@ -6,13 +6,6 @@ description: >
     ...
 ---
 
-### Abstract 1
-
-### Abstract 2
-
-### Abstract 3 
-
-### Abstract 4
-
-### Abstract 5
-
+### A modelling competition will be launched soon, stay tuned!
+We will post here a soft robot modeling case and we challenge researchers and students to propose their solutions.
+An award will be presented to the winner at the Workshop. 
