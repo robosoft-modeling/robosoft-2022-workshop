@@ -24,7 +24,7 @@ To model, or not to model? That is a question in soft robotics. Is modeling the 
 - Gianmarco Mengaldo (National University of Singapore, Singapore)
 - Federico Renda (Khalifa University, UAE)
 
-### Register to Robosoft 2022 conference
+### Register to RoboSoft 2022 conference
 
 [RoboSoft 2022 conference](https://softroboticsconference.org)
 
