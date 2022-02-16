@@ -1,4 +1,4 @@
-# Robosoft 2022 workshop: 
+# Robosoft 2022 workshop
 
 # *Soft Robotics modeling: what are we missing*?
 
@@ -12,9 +12,6 @@ To model, or not to model? That is a question in soft robotics. Is modeling the 
 - Gregory Scott Chirikjian (National University of Singapore, Singapore)
 - Christian Duriez (INRIA, France)
 - Francesco Giorgio Serchi (University of Edinburgh, UK)
-
-## Schedule 
-... Coming soon
 
 ## Organizers
 
