@@ -1,5 +1,5 @@
 ---
-title: Call for Abstracts
+title: Abstracts
 nav: Abstracts
 
 description: > 
