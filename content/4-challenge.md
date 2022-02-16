@@ -3,7 +3,6 @@ title: Modeling challenge
 nav: Challenge
 
 description: > 
-    ...
 ---
 
 ### A modelling challenge will be launched soon, stay tuned!
