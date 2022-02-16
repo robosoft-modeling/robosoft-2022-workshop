@@ -2,7 +2,7 @@
 title: Abstracts
 nav: Abstracts
 
-description: > 
+description: > Call for Abstracts
 ---
 
 We seek abstracts for 3-min pitch talks, on models related to soft robotics, developed or under development. 
