@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# RoboSoft 2022 workshop: 
+# RoboSoft 2022 workshop
 
 # *Soft Robotics modeling: what are we missing*?
 
