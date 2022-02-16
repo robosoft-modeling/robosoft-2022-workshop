@@ -16,4 +16,4 @@ We encourage graduate students and young researchers taking their first steps in
 March 13th, 2022
 
 ## Author notification
-Mar. 20, 2022
+March 20th, 2022
