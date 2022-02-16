@@ -2,7 +2,7 @@
 title: Abstracts
 nav: Abstracts
 
-description: > Call for Abstracts
+description: >
 ---
 
 # Call for Abstracts
