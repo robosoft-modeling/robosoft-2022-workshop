@@ -26,6 +26,6 @@ To model, or not to model? That is a question in soft robotics. Is modeling the 
 
 ### Register to Robosoft 2022 conference
 
-[robosoft2022 conference](https://softroboticsconference.org)
+[RoboSoft 2022 conference](https://softroboticsconference.org)
 
 
