@@ -18,10 +18,6 @@ To model, or not to model? That is a question in soft robotics. Is modeling the 
 - Christian Duriez (INRIA, France)
 - Francesco Giorgio Serchi (University of Edinburgh, UK)
 
-## Schedule 
-
-... Coming soon
-
 ## Organizers
 
 - Cecilia Laschi (National University of Singapore, Singapore)
