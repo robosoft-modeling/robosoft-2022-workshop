@@ -18,6 +18,11 @@
 - Second item
 - Third item
 
+Tables: 
+Column | Column
+------ | ------
+Cell   | Cell
+
 `code`
 
 ---
