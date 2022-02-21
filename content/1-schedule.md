@@ -21,9 +21,9 @@ Time (GMT) | Speaker | Topic
 3.20    | BREAK
 **Session 2** | **Modelling external interactions in soft robots** | **Chair: Gianmarco Mengaldo**
 3.30    | Gianmarco Mengaldo                  | Introduction to session topic
-3.40    | Steve Brunton                       | Modeling flow physics
+3.40    | Moritz Baecher                      | On Designing Believable Robotic Characters
 3.55    | Francesco Giorgio-Serchi            | Modelling fluid interactions
-4.10    | Moritz Baecher                      | On Designing Believable Robotic Characters
+4.10    | Steve Brunton                       | Modeling flow physics
 **Discussion Session** | **All** | 
 4.25    | Moderator                           | Discussion points 
 4.30    | All speakers and participants       | Plenary discussion with polls
