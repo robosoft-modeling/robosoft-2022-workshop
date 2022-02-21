@@ -24,11 +24,11 @@ Time (GMT) | Speaker | Topic
 3.40    | Steve Brunton                       | Modeling flow physics
 3.55    | Francesco Giorgio-Serchi            | Modelling fluid interactions
 4.10    | Moritz Baecher                      | On Designing Believable Robotic Characters
-**Discussion Session** | All | 
+**Discussion Session** | **All** | 
 4.25    | Moderator                           | Discussion points 
 4.30    | All speakers and participants       | Plenary discussion with polls
-**Abstract Session** | Selected authors       | Abstract pitches
-5.00    | Selected abstract authors           | Abstract pitches
+**Abstract Session** | **Selected authors**   | **Abstract pitches**
+5.00    | Selected abstract authors (TBC)     | Abstract pitch presentations
 **Modelling Challenge Session** | | 
-5.20    | Challenge participants, jury Challenge presentations, voting, winner announcement | | 
-6.00    | END| 
+5.20    | Challenge participants, Jury        | Challenge presentations, voting, winner announcement | 
+6.00    | END OF WORKSHOP | 
