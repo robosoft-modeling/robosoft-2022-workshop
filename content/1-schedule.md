@@ -1,13 +1,12 @@
 ---
-title: Schedule, speakers and talk abstracts
+title: Schedule
 nav: Schedule
 
 description: >
 
 ---
 
-# Schedule
-## April 4th, 2022
+### April 4th, 2022
 
 Time (GMT) | Speaker | Topic
 ------- | ----------------------------------- | ----------------------------------------------- 
