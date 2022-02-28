@@ -15,7 +15,7 @@ Time (GMT) | Speaker | Topic
 2.10    | Federico Renda                      | Introduction to session topic
 2.20    | Gregory Scott Chirikjian            | Modelling local volume preservation
 2.35    | Frederic Boyer                      | Statics and dynamics of continuum and soft robots based on Cosserat rods and optimal control theories
-2.50    | Christian Duriez                    | computational models for soft robotics
+2.50    | Christian Duriez                    | Computational models for soft robotics
 3.05    | Katia Bertoldi                      | Modelling soft material behavior
 3.20    | BREAK
 **Session 2** | **Modelling external interactions in soft robots** | **Chair: Gianmarco Mengaldo**
