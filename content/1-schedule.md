@@ -21,7 +21,7 @@ Time (GMT) | Speaker | Topic
 **Session 2** | **Modelling external interactions in soft robots** | **Chair: Gianmarco Mengaldo**
 3.30    | Gianmarco Mengaldo                  | Introduction to session topic
 3.40    | Moritz Baecher                      | On Designing Believable Robotic Characters
-3.55    | Francesco Giorgio-Serchi            | Modelling fluid interactions
+3.55    | Francesco Giorgio-Serchi            | The simple elastohydrodynamics of pulsatile systems: lesson learnt for soft hydraulic actuators
 4.10    | Steve Brunton                       | Modeling flow physics
 **Discussion Session** | **All** | 
 4.25    | Moderator                           | Discussion points 
