@@ -5,7 +5,17 @@ nav: Challenge
 description: > 
 ---
 
-### A modelling challenge will be launched soon, stay tuned!
-We will post here a soft robot modeling case and we challenge researchers and students to propose their solutions.
+A modeling lover? Challenge yourself with a modeling problem in soft robotics! 
 
-Your ideas will be presented at the workshop and assessed by a jury of experts as well as by the workshop participants.
+Please feel free to propose a soft robot of your choice. An example is modeling the soft arms of an octopus underwater (either in walking or in locomotion).
+
+Also, you are free to use your own modeling tools, but you may wish to give a try to [SoRoSim](https://github.com/Ikhlas-Ben-Hmida/SoRoSim), a ready-to-use toolbox that can make your life easier.
+
+Please submit a presentation of your modeling results via email to: robosoft.modeling@gmail.com. 
+
+Please limit it to a maximum of 3 slides (including possible videos) and please ensure to explain your modeling approach and the techniques used. Any highlights of your model performance will help the jury and participants to select the final winner!
+
+## Deadline: 
+April 1st, 2022
+
+You will be invited to present your modeling results at the workshop, in the final session (check [schedule](https://robosoft-modeling.github.io/robosoft-2022-workshop/content/1-schedule.html)), and to compete for the 1st place!
