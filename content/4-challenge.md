@@ -7,7 +7,7 @@ description: >
 
 A modeling lover? Challenge yourself with a modeling problem in soft robotics! 
 
-Please feel free to propose a soft robot of your choice. If you are looking for inspiration, have a look here. 
+Please feel free to propose a soft robot of your choice. If you are looking for inspiration, have a look [here](https://www.youtube.com/watch?v=APdRR2bL_Z0). 
 
 Also, you are free to use your own modeling tools, but you may wish to give a try to [SoRoSim](https://github.com/Ikhlas-Ben-Hmida/SoRoSim), a ready-to-use toolbox that can make your life easier.
 
