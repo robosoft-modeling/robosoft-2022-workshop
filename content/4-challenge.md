@@ -19,3 +19,4 @@ Please limit it to a maximum of 3 slides (including possible videos) and please 
 April 1st, 2022
 
 You will be invited to present your modeling results at the workshop, in the final session (check [schedule](https://robosoft-modeling.github.io/robosoft-2022-workshop/content/1-schedule.html)), and to compete for the 1st place!
+We encourage especially yourng researchers to present their work in person and have the opportunity to interact with the a jury of experts and the workshop participants. However, we can arrange remote presentations if needed.
