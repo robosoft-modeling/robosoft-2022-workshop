@@ -7,7 +7,7 @@ description: >
 
 A modeling lover? Challenge yourself with a modeling problem in soft robotics! 
 
-Please feel free to propose a soft robot of your choice. An example is modeling the soft arms of an octopus underwater (either in walking or in locomotion).
+Please feel free to propose a soft robot of your choice. If you are looking for inspiration, have a look here. 
 
 Also, you are free to use your own modeling tools, but you may wish to give a try to [SoRoSim](https://github.com/Ikhlas-Ben-Hmida/SoRoSim), a ready-to-use toolbox that can make your life easier.
 
