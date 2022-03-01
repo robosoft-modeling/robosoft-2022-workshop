@@ -11,7 +11,7 @@ Please feel free to propose a soft robot of your choice. If you are looking for 
 
 Also, you are free to use your own modeling tools, but you may wish to give a try to [SoRoSim](https://github.com/Ikhlas-Ben-Hmida/SoRoSim), a ready-to-use toolbox that can make your life easier.
 
-Please submit a presentation of your modeling results via email to: robosoft.modeling@gmail.com. 
+Please submit a presentation of your modeling results via email to: [robosoft.modeling@gmail.com](mailto:robosoft.modeling@gmail.com). 
 
 Please limit it to a maximum of 3 slides (including possible videos) and please ensure to explain your modeling approach and the techniques used. Any highlights of your model performance will help the jury and participants to select the final winner!
 
