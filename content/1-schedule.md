@@ -31,4 +31,4 @@ Time (GMT) | Speaker | Topic
 5.25    | All speakers and participants       | Plenary discussion with polls
 **Modelling Challenge Session** | | 
 5.40    | Challenge participants, Jury        | Challenge presentations, voting, winner announcement | 
-**6.00**    | **END OF WORKSHOP** | 
+**6.00 END OF WORKSHOP** | 
