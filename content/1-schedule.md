@@ -33,8 +33,8 @@ Time (GMT) | Speaker | Topic
 5.15    | __Maximilian Stolzle__ and Cosimo Della Santina, Delft University of Technology, Netherlands | [Piston-Driven Pneumatically-Actuated Soft Robots: modeling and backstepping control](https://github.com/robosoft-modeling/robosoft-2022-workshop/blob/main/images/abstracts/stolzle_santina.pdf)
 5.18    | __Amirreza F. Golestaneh__, Gianmarco Mengaldo, Jonathan Lim Ming En, Adamya Dhaker Singh (Nanyang Technological University, Singapore), Chandraveer Saran (Birla Institute of Technology and Science, Pilani, India), Cecilia Laschi, National University of Singapore | [Quasi-static continuum model of octopus arm configuration under water](https://github.com/robosoft-modeling/robosoft-2022-workshop/blob/main/images/abstracts/golenasteh_etal.pdf)
 **Discussion Session** | **All** | 
-5.20    | Moderator                           | Discussion points 
-5.25    | All speakers and participants       | Plenary discussion with polls
+5.22    | Moderator                           | Discussion points 
+5.27    | All speakers and participants       | Plenary discussion with polls
 **Modelling Challenge Session** | |
 5.40    | Challenge participants, Jury        | Challenge presentations, voting, winner announcement | 
 **6.00 END OF WORKSHOP** | |
