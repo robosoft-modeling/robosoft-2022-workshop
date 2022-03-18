@@ -25,12 +25,12 @@ Time (GMT) | Speaker | Topic
 4.30    | Francesco Giorgio-Serchi            | The simple elastohydrodynamics of pulsatile systems: lesson learnt for soft hydraulic actuators
 4.45    | Steve Brunton                       | Modeling flow physics
 **Abstract Session** | |
-5.00    | Hongying Zhang, National University of Singapore | Mechanics Modeling of Origami Robots
-5.03    | Zhiwu Zheng, Prakhar Kumar, Yenan Chen, Hsin Cheng, Sigurd Wagner, Minjie Chen, Naveen Verma and James C. Sturm, Princeton University, USA | Simulation and Demonstration of Planar Piezoelectric Soft Robots
-5.06    | Chenying Liu, Zhong You and Perla Maiolino, University of Oxford, UK | Kinematics of An Origami Inspired Millipede Robot
-5.09    | Pablo E. Tortós Vinocour, Shouta Kokubu, Yuxi Lu, Yuanyuan Wang, Zhou Zhongchao and Wenwei Yu, Chiba University, Japan | Development of a Finite Element Model of a Soft Pneumatic Actuator and MCP Joint Complex Methodology for Soft Continuum Robots
-5.12    | Jialei Shi and Helge A. Wurdemann, University College London, UK | A Configuration-based Compliance Modelling and Analysis
-5.15    | Amirreza F.Golestaneh, Gianmarco Mengaldo, Jonathan Lim Ming En, Adamya Dhaker Singh (Nanyang Technological University, Singapore), Chandraveer Saran (Birla Institute of Technology and Science, Pilani, India), Cecilia Laschi, National University of Singapore | Quasi-static continuum model of octopus arm configuration under water
+5.00    | __Hongying Zhang__, National University of Singapore | Mechanics Modeling of Origami Robots
+5.03    | __Zhiwu Zheng__, Prakhar Kumar, Yenan Chen, Hsin Cheng, Sigurd Wagner, Minjie Chen, Naveen Verma and James C. Sturm, Princeton University, USA | Simulation and Demonstration of Planar Piezoelectric Soft Robots
+5.06    | __Chenying Liu__, Zhong You and Perla Maiolino, University of Oxford, UK | Kinematics of An Origami Inspired Millipede Robot
+5.09    | __Pablo E. Tortós Vinocour__, Shouta Kokubu, Yuxi Lu, Yuanyuan Wang, Zhou Zhongchao and Wenwei Yu, Chiba University, Japan | Development of a Finite Element Model of a Soft Pneumatic Actuator and MCP Joint Complex Methodology for Soft Continuum Robots
+5.12    | __Jialei Shi__ and Helge A. Wurdemann, University College London, UK | A Configuration-based Compliance Modelling and Analysis
+5.15    | __Amirreza F. Golestaneh__, Gianmarco Mengaldo, Jonathan Lim Ming En, Adamya Dhaker Singh (Nanyang Technological University, Singapore), Chandraveer Saran (Birla Institute of Technology and Science, Pilani, India), Cecilia Laschi, National University of Singapore | Quasi-static continuum model of octopus arm configuration under water
 **Discussion Session** | **All** | 
 5.20    | Moderator                           | Discussion points 
 5.25    | All speakers and participants       | Plenary discussion with polls
