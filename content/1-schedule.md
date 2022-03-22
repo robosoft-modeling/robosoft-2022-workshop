@@ -34,8 +34,8 @@ Time (GMT) | Speaker | Topic
 5.18    | __Amirreza F. Golestaneh__, Gianmarco Mengaldo, Jonathan Lim Ming En, Adamya Dhaker Singh (Nanyang Technological University, Singapore), Chandraveer Saran (Birla Institute of Technology and Science, Pilani, India), Cecilia Laschi, National University of Singapore | [Quasi-static continuum model of octopus arm configuration under water](https://github.com/robosoft-modeling/robosoft-2022-workshop/blob/main/images/abstracts/golenasteh_etal.pdf)
 5.21    | Mikel De Iturrate Reyzabal, __Zicon Wu__, S.M. Hadi Sadati, Hongbin Liu, Sebastien Ourselin, Daniel Leff (THe Hamlyn Centre for Robotics Surgery), Kawal Rhode, Christos Bergeles, King's COllege London, UK | [Finite-Element Dynamics of a Tendon-driven Eversion Growing (Vine) Robot Using SOFA-Framework](https://github.com/robosoft-modeling/robosoft-2022-workshop/blob/main/images/abstracts/De_Iturrate_Reyzabal_etal.pdf)
 **Discussion Session** | **All** | 
-5.22    | Moderator                           | Discussion points 
-5.27    | All speakers and participants       | Plenary discussion with polls
+5.25    | Moderator                           | Discussion points 
+5.30    | All speakers and participants       | Plenary discussion with polls
 **Modelling Challenge Session** | |
-5.40    | Challenge participants, Jury        | Challenge presentations, voting, winner announcement | 
+5.45    | Challenge participants, Jury        | Challenge presentations, voting, winner announcement | 
 **6.00 END OF WORKSHOP** | |
