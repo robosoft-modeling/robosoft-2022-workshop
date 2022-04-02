@@ -8,7 +8,7 @@ description: >
 
 ### April 4th, 2022
 
-Time (GMT) | Speaker | Topic
+Time (UK Summer time) | Speaker | Topic
 ------- | ----------------------------------- | ----------------------------------------------- 
 2.00 pm | Cecilia Laschi                      | Welcome and introduction to the workshop
 **Session 1** | **Modelling internal interactions in soft robots** | **Chair: Federico Renda**
@@ -36,6 +36,4 @@ Time (GMT) | Speaker | Topic
 **Discussion Session** | **All** | 
 5.25    | Moderator                           | Discussion points 
 5.30    | All speakers and participants       | Plenary discussion with polls
-**Modelling Challenge Session** | |
-5.45    | Challenge participants, Jury        | Challenge presentations, voting, winner announcement | 
 **6.00 END OF WORKSHOP** | |
