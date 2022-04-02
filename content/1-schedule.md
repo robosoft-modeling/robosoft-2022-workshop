@@ -35,5 +35,5 @@ Time (UK Summer time) | Speaker | Topic
 5.21    | Mikel De Iturrate Reyzabal, __Zicon Wu__, S.M. Hadi Sadati, Hongbin Liu, Sebastien Ourselin, Daniel Leff (The Hamlyn Centre for Robotics Surgery), Kawal Rhode, Christos Bergeles, King's College London, UK | [Finite-Element Dynamics of a Tendon-driven Eversion Growing (Vine) Robot Using SOFA-Framework](https://github.com/robosoft-modeling/robosoft-2022-workshop/blob/main/images/abstracts/De_Iturrate_Reyzabal_etal.pdf)
 **Discussion Session** | **All** | 
 5.25    | Moderator                           | Discussion points 
-5.30    | All speakers and participants       | Plenary discussion with polls
+5.30    | All speakers and participants       | Plenary discussion
 **6.00 END OF WORKSHOP** | |
